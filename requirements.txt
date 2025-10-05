@@ -1,4 +1,6 @@
-streamlit
 nltk
 plotly
-transformers
+streamlit==1.38.0
+transformers==4.41.2
+torch==2.2.0
+pandas
